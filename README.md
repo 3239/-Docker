@@ -3,6 +3,7 @@
 Задание 1
 
 Dockerfile.python
+
 <img width="867" height="789" alt="image" src="https://github.com/user-attachments/assets/0574aa45-c4ef-4d36-beba-1101a5b4fd62" />
 
 .dockerignore
