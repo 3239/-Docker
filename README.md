@@ -37,5 +37,18 @@ Dockerfile.python
 <img width="833" height="327" alt="image" src="https://github.com/user-attachments/assets/997e1edb-145d-4028-a32b-4680f45b1124" />
 https://github.com/3239/shvirtd-example-python.git
 
-Задание 5
+Задание 6
+
+<img width="888" height="528" alt="image" src="https://github.com/user-attachments/assets/dea52a53-83b8-4516-b617-6ec2ad719f49" />
+<img width="893" height="502" alt="image" src="https://github.com/user-attachments/assets/c686eef7-8c50-4c7c-8f70-299163759f11" />
+<img width="880" height="304" alt="image" src="https://github.com/user-attachments/assets/ed03c404-1364-4fe3-bc73-8631fc8dfba4" />
+<img width="894" height="263" alt="image" src="https://github.com/user-attachments/assets/eccdb382-2d4a-48aa-bcbb-cad8b01a812e" />
+
+Задание 6.1
+
+<img width="883" height="282" alt="image" src="https://github.com/user-attachments/assets/472eee39-b60d-4ef4-84d6-44f8eacd9734" />
+
+Задание 6.2
+
+<img width="906" height="709" alt="image" src="https://github.com/user-attachments/assets/9c644cfc-ecab-4617-b72e-619fedddab3a" />
 
