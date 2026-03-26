@@ -34,6 +34,7 @@ Dockerfile.python
 <img width="898" height="698" alt="image" src="https://github.com/user-attachments/assets/f5af7813-71ce-4b8c-9e63-e6c14b7908d0" />
 
 Задание 4
+
 <img width="833" height="327" alt="image" src="https://github.com/user-attachments/assets/997e1edb-145d-4028-a32b-4680f45b1124" />
 https://github.com/3239/shvirtd-example-python.git
 
