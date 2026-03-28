@@ -44,7 +44,16 @@ https://github.com/3239/shvirtd-example-python.git
 <img width="888" height="528" alt="image" src="https://github.com/user-attachments/assets/dea52a53-83b8-4516-b617-6ec2ad719f49" />
 <img width="893" height="502" alt="image" src="https://github.com/user-attachments/assets/c686eef7-8c50-4c7c-8f70-299163759f11" />
 <img width="880" height="304" alt="image" src="https://github.com/user-attachments/assets/ed03c404-1364-4fe3-bc73-8631fc8dfba4" />
-<img width="894" height="263" alt="image" src="https://github.com/user-attachments/assets/eccdb382-2d4a-48aa-bcbb-cad8b01a812e" />
+
+После запуска drive для поиска файлов, распаковываю архив через tar
+
+<img width="761" height="214" alt="image" src="https://github.com/user-attachments/assets/a346d18f-8c79-403c-9a7d-90c7436d4d50" />
+
+Ищу файл, который содержит bin/terraform
+
+<img width="885" height="555" alt="image" src="https://github.com/user-attachments/assets/64d04505-b1d9-437c-83fe-e127e614de70" />
+<img width="871" height="99" alt="image" src="https://github.com/user-attachments/assets/11eef630-5ee9-4d8f-b6d7-315ad72e7ba0" />
+<img width="724" height="98" alt="image" src="https://github.com/user-attachments/assets/1fbdf0e2-d3df-4754-b479-8b315f748550" />
 
 Задание 6.1
 
